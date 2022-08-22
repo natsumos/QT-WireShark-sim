@@ -1,0 +1,15 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\capthread.o
+./debug\utilities.o
+./debug\arpcheatdialog.o
+./debug\arpcheatthread.o
+./debug\sendpktthread.o
+./debug\qrc_rs.o
+./debug\moc_mainwindow.o
+./debug\moc_capthread.o
+./debug\moc_arpcheatdialog.o
+./debug\moc_arpcheatthread.o
+./debug\moc_sendpktthread.o
+);
