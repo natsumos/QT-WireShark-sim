@@ -58,7 +58,7 @@ public:
 private slots:
     void on_startBtn_clicked();
     void updateTableWidget(QString timestr, QString srcMac, QString destMac, QString len, QString protoType, QString srcIP, QString dstIP);
-    void updateCapCalculate();
+    //void updateCapCalculate();
     void on_finishBtn_clicked();
     void showProtoTree(int row, int column);
     void slotopen();
